@@ -1,6 +1,6 @@
 # HamiFormer
 
-Hamiltonian and diffusion experts for HamiBalls trajectory prediction.
+Dual-Expert Diffusion Fields with Affine Symplectic Maps 
 
 [Project page](https://hamiformer.github.io/) · [HamiBalls datasets](https://huggingface.co/datasets/HamiFormer/Hamiballs) · [Pretrained weights](https://huggingface.co/HamiFormer/HamiFormer-Assets)
 
